@@ -1,5 +1,6 @@
 # 💫 About Me:
-Audio signal processing and reinforcement learning
+* Audio Signal Processing 
+* Reinforcement Learning
 
 
 ## 🌐 Socials:
