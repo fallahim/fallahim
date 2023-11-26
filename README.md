@@ -1,9 +1,5 @@
 # 💫 About Me:
-* Audio Signal Processing 
-* Reinforcement Learning
-* Data Mining
-
-
+* AI Researcher and Develpoer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-fallahi-02767816b/) 
 
